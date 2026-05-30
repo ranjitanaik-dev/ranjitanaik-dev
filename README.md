@@ -114,5 +114,10 @@
 * Email: [ranjitanaik062@gmail.com](mailto:ranjitanaik062@gmail.com)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjitanaik-dev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitanaik-dev&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ranjitanaik-dev)
 
 ⭐ “Building technology that creates real-world impact.”
